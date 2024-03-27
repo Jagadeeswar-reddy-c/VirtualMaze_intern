@@ -4,4 +4,11 @@ As an intern developer, I collaborate with a team to assist in software developm
 
 ## Projects
 
-<b>Automated USGS Satellite Image Downloads </b> [link](https://github.com/Jagadeeswar-reddy-c/USGS/tree/main)<br>
+<b>Automated USGS Satellite Image Downloads </b> -[link](https://github.com/Jagadeeswar-reddy-c/USGS/tree/main)<br>
+Details
+
+<b>Traffic Prediction </b> -[link](https://github.com/Jagadeeswar-reddy-c/Traffic_Prediction)<br>
+Details
+
+<b>SmartVision </b> -[link](https://github.com/Jagadeeswar-reddy-c/Vehicle_Count_Estimator_App)<br>
+Details
